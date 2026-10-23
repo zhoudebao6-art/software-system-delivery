@@ -1,0 +1,38 @@
+[
+  {
+    "name": "package_policy.py",
+    "original_sha256": "93c45f92f5a3407d531d160599db56f5548bc25804b4d483c8647763aca5d55f",
+    "new_sha256": "93c45f92f5a3407d531d160599db56f5548bc25804b4d483c8647763aca5d55f",
+    "adaptation": "byte-preserved deterministic helper"
+  },
+  {
+    "name": "data_preflight.py",
+    "original_sha256": "8b4a8189455a09ff4d111e12910db3c71c93769f13293453e703c77dec144af0",
+    "new_sha256": "8b4a8189455a09ff4d111e12910db3c71c93769f13293453e703c77dec144af0",
+    "adaptation": "byte-preserved deterministic helper"
+  },
+  {
+    "name": "_video_evidence_core.py",
+    "original_sha256": "e7912eb38f264639c371e7750d53ee2159d29388b515b81151400aff59925f07",
+    "new_sha256": "3cefc8a30cf7b52d36a1b648537ed0912352cd4f4165df964ad0ea785582d4cf",
+    "adaptation": "Independent >60s natural-flow defaults, strict decode and ultra pending status"
+  },
+  {
+    "name": "package_probe.py",
+    "original_sha256": "8f21254c896f1a8006c2e37045cfe46985cd96a71abfa6306d82dc72a74da26e",
+    "new_sha256": "b8298e5259b8f08f05699540c643e2666c094d787ef7bd7a64f023bc85f1946e",
+    "adaptation": "independent .ssd namespace and runtime, no original state access"
+  },
+  {
+    "name": "media_job.py",
+    "original_sha256": "c2c91ec53d83faa17468d5c4bbd7b9b89255937b06cd307e6c2779938505cf06",
+    "new_sha256": "60e1d6c02835b0e8eb9320ac64686f7c57f1b7307895d411c79193797bbac69b",
+    "adaptation": "independent .ssd namespace and runtime, no original state access"
+  },
+  {
+    "name": "process_guard.py",
+    "original_sha256": "daea4be198a1f137d0fa040a38b0c2971001e977d8fee22e619bde44cf6d7ad0",
+    "new_sha256": "8dd3a1cde3cb0b57f8e47a2f9595645a8638f99a8fbaff56c675926493a35287",
+    "adaptation": "independent .ssd namespace and runtime, no original state access; repair F01/F02 exact entry and retained-handle descendant cleanup; F02 conservative Python attached and clustered startup-option parser; retained-handle signaled exit check after termination race"
+  }
+]

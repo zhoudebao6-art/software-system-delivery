@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "parent_inheritance_sha256": "a71dfcfbcdc8d23efb736149abd8e5e8a5e05417310e2c875908a347cf99ec28",
+  "note": "Implementation completion mapping; does not rewrite prepared runs or original frozen requirements.",
+  "requirements": [
+    {
+      "id": "models-and-proof-expedited",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/expedited-routing.md.snapshot.txt",
+      "active_reference": "references/expedited.md",
+      "implementation": "expedited.validate checks real parent human whole-message hash, exact scoped affirmative command, unique case/batch and prior batch context, actual question-card binding; model_proof.review_route/admit/dispatch/child verifies ordinary Sol ultra or explicitly authorized Astra low without downgrade. Batch expedite preserves active route and waiting token/time."
+    },
+    {
+      "id": "real-media-owned-runtime",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/recording-concurrency.md.snapshot.txt",
+      "active_reference": "references/batch-process.md",
+      "implementation": "job_runner suspends, assigns unique Windows Job, binds actual media PID/job before resume, closes exact job on exit/timeout/interrupt and releases only after empty membership. Video technical core samples complete 5fps with no fixed 75s upper limit."
+    },
+    {
+      "id": "real-image-business-visualization",
+      "decision": "strengthen",
+      "source_snapshot": "references/frozen/references/web-design.md.snapshot.txt",
+      "active_reference": "SKILL.md",
+      "implementation": "Current user requires actual licensed image or user upload, algorithm overlays, defect location/local inspection in image/spatial/recognition systems; source trace and independent browser/algorithm review must check it. Ground truth cannot be used as prediction. Independent chart/Word deliverables remain excluded."
+    }
+  ]
+}

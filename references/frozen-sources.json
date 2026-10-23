@@ -1,0 +1,212 @@
+[
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\SKILL.md",
+    "snapshot": "references/frozen/SKILL.md.snapshot.txt",
+    "sha256": "451b8405e53299b8644b0aeb1624cd1e4a59c30fe142202e3192e44736670701"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\archive.md",
+    "snapshot": "references/frozen/references/archive.md.snapshot.txt",
+    "sha256": "00b5f3b74e8d9002c1772cad6eaffb3460ed08f58ed03b1cd2c28f72f7fd247a"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\closure.md",
+    "snapshot": "references/frozen/references/closure.md.snapshot.txt",
+    "sha256": "3980305ef1a8bfab863c294aff8616f6ad6f383a6c9b0ee04861d9007ad3fa66"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\dispatch-evidence.md",
+    "snapshot": "references/frozen/references/dispatch-evidence.md.snapshot.txt",
+    "sha256": "244c1c588cbb82f55fa259ae284b1402da0324548daae1c47ca9f8236a1fb6c7"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\execution.md",
+    "snapshot": "references/frozen/references/execution.md.snapshot.txt",
+    "sha256": "f74dbe6b4c962768e388a5dbdde8780ba7f96725c759af05fd47321b6cf9a972"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\expedited-routing.md",
+    "snapshot": "references/frozen/references/expedited-routing.md.snapshot.txt",
+    "sha256": "e8b15a64e13272d6b109a4c240b98bb767d5f72b627cb64665a7f7b3b2e9e8cb"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\figure-design.md",
+    "snapshot": "references/frozen/references/figure-design.md.snapshot.txt",
+    "sha256": "c2037afc99348e0467ab11dcbdfa4a61077410518b27af3825d1accac93c76de"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\inheritance.md",
+    "snapshot": "references/frozen/references/inheritance.md.snapshot.txt",
+    "sha256": "cbe164af5f71c12f79c9efe9ba8a8e6c95207dddaeb2e04d4a4f3f731016993a"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\processes.md",
+    "snapshot": "references/frozen/references/processes.md.snapshot.txt",
+    "sha256": "b25d1eb739b294d96ddf2dd65e90e0d32251f406348c79704e8111d306dfa06c"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\progress.md",
+    "snapshot": "references/frozen/references/progress.md.snapshot.txt",
+    "sha256": "d6399ab91b2511c93c5d3223caa8543d6e27feaf86f8399b7d1ec412eef3fa01"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\quality.md",
+    "snapshot": "references/frozen/references/quality.md.snapshot.txt",
+    "sha256": "0591151b3c45418b44dda94e2035754434430a1c00c0cced7b144b5993730ba9"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\recording-concurrency.md",
+    "snapshot": "references/frozen/references/recording-concurrency.md.snapshot.txt",
+    "sha256": "eb97dbcc88904c6061afdc464923579ecb230368ea5d6e140ed0484bd9928512"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\recording.md",
+    "snapshot": "references/frozen/references/recording.md.snapshot.txt",
+    "sha256": "eb553de6eb359afb12b9a4c47497059df051e0964101e9393833f75663302157"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\scheduler-policy.md",
+    "snapshot": "references/frozen/references/scheduler-policy.md.snapshot.txt",
+    "sha256": "bb2fd7fd93f69f9d4f089e7cb21df880c813489b588d0604e925a129ea499e47"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\system-data.md",
+    "snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+    "sha256": "0453b52420d93105f48cd6049e92ad180d233f99b7a3096e2aaa90609cf985ee"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\tools.md",
+    "snapshot": "references/frozen/references/tools.md.snapshot.txt",
+    "sha256": "eb44aa9126732b39b98f454ebc03612b66c6fff4603db1137203dbf6f1718cef"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\web-design.md",
+    "snapshot": "references/frozen/references/web-design.md.snapshot.txt",
+    "sha256": "0e883ad8b11750284537d8c4e11b616b8b4f0523f148208472c99391c2afa0f5"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\AGENTS.snapshot.txt",
+    "snapshot": "references/frozen/references/original/AGENTS.snapshot.txt.snapshot.txt",
+    "sha256": "799126b1c21ac7fb1500fdf874f4f761dd20ca8d7733c489214a92fab4cba578"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\docs\\architecture.md",
+    "snapshot": "references/frozen/references/original/docs/architecture.md.snapshot.txt",
+    "sha256": "252d8a2783df8eb3a127bce0b7f256cb2c699d252f85605d4be6d0dc92605711"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\docs\\artifact-contract.md",
+    "snapshot": "references/frozen/references/original/docs/artifact-contract.md.snapshot.txt",
+    "sha256": "7c89c94bd01b1ea39d349a4d6b9cf52520211f00b056fe8d16b2c888e3f026bc"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\docs\\capture-plan.md",
+    "snapshot": "references/frozen/references/original/docs/capture-plan.md.snapshot.txt",
+    "sha256": "62eddf9a7d83888652c189c2ce59d00cb60091ed955b8606e8f7680bcb14d861"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\docs\\发布核验.md",
+    "snapshot": "references/frozen/references/original/docs/发布核验.md.snapshot.txt",
+    "sha256": "1c2403bd15a3dd11330df98ae03d1e3271c7eea4a27d4a678274836ab230c396"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\docs\\新电脑使用.md",
+    "snapshot": "references/frozen/references/original/docs/新电脑使用.md.snapshot.txt",
+    "sha256": "73ecff0131a5e2340f2b82ad80ba3c0e659ae6384395a5d5ec2a15ec9ee8f04e"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\case-design.md",
+    "snapshot": "references/frozen/references/original/rules/case-design.md.snapshot.txt",
+    "sha256": "12617c41d86d01e3bfa93baf37521fd8b0a38b9086eed0c16390f396b3fc853d"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\chart-acceptance.md",
+    "snapshot": "references/frozen/references/original/rules/chart-acceptance.md.snapshot.txt",
+    "sha256": "7d4c0208b7fd143cf3b0f27ae59367ab1d471d1ed002ba168dc7b72144232bca"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\chart-legend-scope.json",
+    "snapshot": "references/frozen/references/original/rules/chart-legend-scope.json.snapshot.txt",
+    "sha256": "d732be80d2f91102a1e1beeca007d214b18ffec2648cd4ee62910e0c1b56dc19"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\chart-legend.md",
+    "snapshot": "references/frozen/references/original/rules/chart-legend.md.snapshot.txt",
+    "sha256": "e634dc207aa74a05e89689b316269885b743814b1fbdf297e52f5ea8a75dc01f"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\chart-professional-scope.json",
+    "snapshot": "references/frozen/references/original/rules/chart-professional-scope.json.snapshot.txt",
+    "sha256": "013d020174c89f50418f3b45d7310a58bbf94e0aabf8eb7eb9789b46f7a3e954"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\chart-professional.md",
+    "snapshot": "references/frozen/references/original/rules/chart-professional.md.snapshot.txt",
+    "sha256": "f08d645f531560fe57742734cd5eb0ff061f714761553ec11f0b9132dd8d6a06"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\chart-quality.md",
+    "snapshot": "references/frozen/references/original/rules/chart-quality.md.snapshot.txt",
+    "sha256": "7f1d55b02f28ba103613698ed42ab201e7562b174d4f208817015acab9205221"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\deliverable-first.md",
+    "snapshot": "references/frozen/references/original/rules/deliverable-first.md.snapshot.txt",
+    "sha256": "26d252c75901cb13ddcb512a64300682a9ffd6bd4fa0512e2d24d00ba426c8de"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\efficient-pipeline.md",
+    "snapshot": "references/frozen/references/original/rules/efficient-pipeline.md.snapshot.txt",
+    "sha256": "5a82f626f9d597e1d09f3aaf7db7be86a6b7649f29ae0bc64e6c83071ba953af"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\execution-efficiency.md",
+    "snapshot": "references/frozen/references/original/rules/execution-efficiency.md.snapshot.txt",
+    "sha256": "b45d573232773ad5a31b72d1903410666a662b9317e19ce1750429d594620210"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\expedited-review.md",
+    "snapshot": "references/frozen/references/original/rules/expedited-review.md.snapshot.txt",
+    "sha256": "9adf77f88281773a34a5445b6afc80700599cc99c61d7c37ebc035879d0a3677"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\material-sourcing.md",
+    "snapshot": "references/frozen/references/original/rules/material-sourcing.md.snapshot.txt",
+    "sha256": "d1ce34c60acd54a1ce657e8a61b27b689b595027f6f674fc69cdb5e8c639439b"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\requirements.md",
+    "snapshot": "references/frozen/references/original/rules/requirements.md.snapshot.txt",
+    "sha256": "9ae3d000bcc509e346915655c8169b293adbd00a71a647a90bd5b5b3dd8c74c2"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\web-visible-copy.md",
+    "snapshot": "references/frozen/references/original/rules/web-visible-copy.md.snapshot.txt",
+    "sha256": "a4f82a82d51c6ac67fde16157f3a725d11d908150767ec207fcf9758127270fa"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\rules\\worker-environment.md",
+    "snapshot": "references/frozen/references/original/rules/worker-environment.md.snapshot.txt",
+    "sha256": "ec895e82ee46a2fc4acf08a11ef24da894408960be2c1ffe0d130822db37079e"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\skill\\SKILL.snapshot.txt",
+    "snapshot": "references/frozen/references/original/skill/SKILL.snapshot.txt.snapshot.txt",
+    "sha256": "2c537f5d02bbdad345d36f36c02560ff3220ca908329a1976a9646ab3cb068df"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\开始使用.md",
+    "snapshot": "references/frozen/references/original/开始使用.md.snapshot.txt",
+    "sha256": "68666afcdc135a9a4a1cdb06e00265d9ce931a474c399dfba8a38e771e085772"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\original\\本机接手说明.md",
+    "snapshot": "references/frozen/references/original/本机接手说明.md.snapshot.txt",
+    "sha256": "cbc41dae5a51aee84cb926ca06b5d639620ba8a738318fe0ba442cfff125b52e"
+  },
+  {
+    "source": "D:\\自动化2.0\\software-case-batch-pro\\references\\ui-policy.json",
+    "snapshot": "references/frozen/references/ui-policy.json.snapshot.txt",
+    "sha256": "81e41b23f7c210837b937b36e72fda8ec3ea424d660e3f38ed05422258665fa1"
+  }
+]

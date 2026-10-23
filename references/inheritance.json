@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "profile": "software-only-v1",
+  "source_skill": "software-case-batch-pro",
+  "frozen_manifest": "references/frozen-sources.json",
+  "precedence": "Current explicit user instructions override snapshots. Snapshot paths and chart/Word requirements are inert historical evidence. All retained non-chart requirements apply by their original scope.",
+  "requirements": [
+    {
+      "id": "source-readonly",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/SKILL.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "prepare hashes + source_trace + independent source_fidelity"
+    },
+    {
+      "id": "models-and-proof",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/SKILL.md.snapshot.txt",
+      "active_reference": "references/cli-schema.md",
+      "implementation": "model_proof.dispatch/child/verify_review exact real high/ultra roles"
+    },
+    {
+      "id": "word-and-charts",
+      "decision": "override",
+      "source_snapshot": "references/frozen/references/quality.md.snapshot.txt",
+      "active_reference": "references/../SKILL.md",
+      "implementation": "software-only layout rejects Word/chart deliveries; business visualization stays"
+    },
+    {
+      "id": "paths",
+      "decision": "override",
+      "source_snapshot": "references/frozen/references/inheritance.md.snapshot.txt",
+      "active_reference": "references/../SKILL.md",
+      "implementation": "E delivery/work/.staging; D cache; no old state"
+    },
+    {
+      "id": "source-consumer-map",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "check_trace + six checks + independent semantic review"
+    },
+    {
+      "id": "semantic-boundaries",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "actual domain cases/final API + independent algorithm/api review"
+    },
+    {
+      "id": "source-conditional-mechanisms",
+      "decision": "conditional",
+      "source_snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "snapshot/precision/time/search/prediction mechanisms only when source requires"
+    },
+    {
+      "id": "web-design",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/web-design.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "role/task/workspace/interactions and independent browser review"
+    },
+    {
+      "id": "image-business-views",
+      "decision": "strengthen",
+      "source_snapshot": "references/frozen/references/web-design.md.snapshot.txt",
+      "active_reference": "references/../SKILL.md",
+      "implementation": "real licensed image/upload/overlay/defect inspect; GT isolated"
+    },
+    {
+      "id": "state-consistency",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "list/detail/stats/log same object version; persistence/browser checks"
+    },
+    {
+      "id": "public-data",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "check_data provenance actual raw ref/license/URL"
+    },
+    {
+      "id": "scale-and-events",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "data_preflight/check_expansion + domain reviewer"
+    },
+    {
+      "id": "csv-pk-fk-units",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+      "active_reference": "references/cli-schema.md",
+      "implementation": "check_data units/meaning and actual PK/FK/effective_keys"
+    },
+    {
+      "id": "csv-neutrality",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "data_preflight known names/hash review + independent data review"
+    },
+    {
+      "id": "csv-column-cleaning",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "check_data prohibited metadata columns/BOM/no silent values edit"
+    },
+    {
+      "id": "ui-code-prohibited-copy",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/ui-policy.json.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "ui_hits/audit_delivery_text plus independent browser/CSV review"
+    },
+    {
+      "id": "source-allowlist",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+      "active_reference": "references/cli-schema.md",
+      "implementation": "package explicit list and no README/docs/raw/db/deps/secret"
+    },
+    {
+      "id": "source-runtime-and-license",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/system-data.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "preserve runtime/lock/start/stop/backup/recovery/license; package probe"
+    },
+    {
+      "id": "isolated-package-probe",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/closure.md.snapshot.txt",
+      "active_reference": "references/cli-schema.md",
+      "implementation": "package_probe real unpack/Windows Job/core_flow/exit/hash/log"
+    },
+    {
+      "id": "natural-long-recording",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/recording.md.snapshot.txt",
+      "active_reference": "references/cli-schema.md",
+      "implementation": "check_video 1080 H264 >60s/actions/timeline/keyframes; independent visual"
+    },
+    {
+      "id": "first-full-visual",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/recording.md.snapshot.txt",
+      "active_reference": "references/cli-schema.md",
+      "implementation": "verify_review all contact and operation original frames exact hashes"
+    },
+    {
+      "id": "media-reuse",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/inheritance.md.snapshot.txt",
+      "active_reference": "references/build-data.md",
+      "implementation": "same completed video/CSV own hashes reusable; only material faults repaired"
+    },
+    {
+      "id": "safe-process-shutdown",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/processes.md.snapshot.txt",
+      "active_reference": "references/batch-process.md",
+      "implementation": "adapted process_guard PID/time/command/tree/port + probe job"
+    },
+    {
+      "id": "batch-dedup-resume",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/execution.md.snapshot.txt",
+      "active_reference": "references/batch-process.md",
+      "implementation": "new isolated batch_control manifest/hash/ready/blocked/delivered receipts"
+    },
+    {
+      "id": "verified-capacity-and-fairness",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/scheduler-policy.md.snapshot.txt",
+      "active_reference": "references/batch-process.md",
+      "implementation": "new isolated scheduler real parent runtime max12+same-parent cap/FIFO rotation"
+    },
+    {
+      "id": "parallel-media",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/recording-concurrency.md.snapshot.txt",
+      "active_reference": "references/batch-process.md",
+      "implementation": "new isolated leases/resource gates/unique DB-browser/job/no capture evidence overlap"
+    },
+    {
+      "id": "independent-publish",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/references/tools.md.snapshot.txt",
+      "active_reference": "references/cli-schema.md",
+      "implementation": "audit/finalize exact snapshot + atomic no-overwrite publish receipt"
+    },
+    {
+      "id": "cache",
+      "decision": "retain",
+      "source_snapshot": "references/frozen/SKILL.md.snapshot.txt",
+      "active_reference": "references/../Enter-Environment.ps1",
+      "implementation": "current-process D temp/cache, source/session/deps protected"
+    },
+    {
+      "id": "archive",
+      "decision": "override",
+      "source_snapshot": "references/frozen/references/archive.md.snapshot.txt",
+      "active_reference": "references/batch-process.md",
+      "implementation": "no automatic old F archive; explicit user instruction needed"
+    },
+    {
+      "id": "historic-state",
+      "decision": "override",
+      "source_snapshot": "references/frozen/references/inheritance.md.snapshot.txt",
+      "active_reference": "references/../SKILL.md",
+      "implementation": "no old configs/cases/queues/receipts carried or modified"
+    }
+  ]
+}

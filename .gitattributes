@@ -1,0 +1,2 @@
+# Preserve exact bytes for frozen references and hash-bound helpers.
+* -text
